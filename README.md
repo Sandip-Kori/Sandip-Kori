@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Sandip-Kori/Sandip-Kori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
 
-Here are some ideas to get you started:
+🎓 Computer Science student at Ramniranjan Jhunjhunwala College.
+💻 Strong expertise in full-stack development, specializing in the MERN stack.
+🌐 Passionate about solving real-world problems with scalable and efficient solutions.
+🌱 Always eager to explore new technologies across different fields.
+🚀 Committed to continuous learning and building innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Language and tools
+react logo  express logo  mongodb logo  nodejs logo  java logo  javascript logo  python logo  git logo  github logo
+🔥 My Stats :
+stats graph languages graph
