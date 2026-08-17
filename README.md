@@ -1,81 +1,135 @@
-<div align="center">
-  <img height="150" src="pic_crop_copy1.gif" />
-</div>
+# Hi 👋, I'm Sandip Kori
 
-###
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sandip-Kori&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Sandip-Kori?label=Followers&style=flat" alt="followers" />
+</p>
 
-<div align="center">
-  <!-- LinkedIn Badge with hyperlink -->
+### MCA Student | Full Stack Developer | Java & Spring Boot Enthusiast
+
+💻 Passionate about building scalable web applications and solving real-world problems through technology.
+
+🌱 Currently Learning:
+- Data Structures & Algorithms in Java
+- Spring Boot & Microservices
+- System Design
+
+🚀 Interested In:
+- Backend Development
+- Full Stack Development
+- Software Engineering
+
+**📫 Reach me at:**
+- Email: korisandip3023@mail.com
+
+## 🌐 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/sandip-kori-5696b5256/" target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
-      height="25" 
-      alt="linkedin logo" 
-    />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   
-  <!-- Gmail Badge with hyperlink -->
-  <a href="mailto:korisandip3023@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
-      height="25" 
-      alt="gmail logo" 
-    />
+  <a href="https://leetcode.com/u/korisandip3023/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="30" />
   </a>
-</div>
+  &nbsp;&nbsp;&nbsp;
+   
+  <a href="https://drive.google.com/file/d/1B2m3rmHHwBbOH1WtRp8eBCZgR7uhxDCF/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+<br>
 
-###
+## 🚀 Tech Stack
+
+## 📚 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,python,go,c,cpp,dart" />
+</p>
+
+## 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+## ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,linux,nginx" />
+</p>
+
+## 📊 Monitoring & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=grafana" />
+</p>
+
+## 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shreeram2011.shreeram2011&" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sandip-Kori&show_icons=true&theme=dracula" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Sandip-Kori&layout=compact&theme=dracula" height="180" />
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🚀 Featured Projects
 
-###
+### 🏢 Society Management System
+- Full Stack Application using React, Spring Boot, and MySQL
+- Tenant Management
+- Complaint Management
+- Bill & Rent Management
+- Notice Board System
 
-<h3 align="left">👋 Hi, I'm Sandip Kori!</h3>
+### 🏠 Rent Ease
+- MERN Stack Rental Platform
+- Property Listings
+- JWT Authentication
+- Wishlist & Booking System
+- Razorpay Payment Integration
 
-###
+### 📇 Smart Contact Manager
+- Spring Boot Based Contact Management Application
+- Authentication & Authorization
+- Contact CRUD Operations
+- Responsive UI
 
-<p align="left">📚 About Me:<br><br>🎓 Master in Computer Application student at Thakur Institute of Management Studies and Career Development and Research.<br>💻 Strong expertise in full-stack development, specializing in the MERN stack.<br>🌐 Passionate about solving real-world problems with scalable and efficient solutions.<br>🌱 Always eager to explore new technologies across different fields.<br>🚀 Committed to continuous learning and building innovative projects.</p>
+---
 
-###
+## 🏆 Achievements
 
-<h3 align="left">🛠 Language and tools</h3>
+🥉 Bronze Medal – District Level Boxing Competition
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-</div>
+## 📈 Contribution Graph
 
-###
+![Snake animation](https://github.com/Sandip-Kori/Sandip-Kori/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="left">🔥 My Stats :</h3>
+---
 
-###
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Sandip-Kori&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph" />
-
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Sandip-Kori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+### ⭐ "Code. Learn. Build. Repeat."
